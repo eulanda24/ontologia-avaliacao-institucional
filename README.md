@@ -15,13 +15,12 @@ A ontologia foi modelada em OWL (Web Ontology Language) com apoio da ferramenta 
 ## 📂 Arquivos disponíveis
 
 - `ontologia-avaliacao.owl`: arquivo principal da ontologia no formato OWL.
-- `fluxograma_ontologia.png`: diagrama ilustrativo da estrutura ontológica.
 - `README.md`: este documento.
 
-## 🌐 Acesso direto à imagem
+## 🌐 todos.png Acesso direto à imagem
 
 Para melhor visualização da estrutura ontológica, acesse a imagem completa aqui:  
-👉 [Ver diagrama da ontologia](https://raw.githubusercontent.com/eulandaniel/ontologia-avaliacao-institucional/main/fluxograma_ontologia.png)
+👉 [Ver diagrama da ontologia] todos.png
 
 ## 📚 Referência sugerida
 
