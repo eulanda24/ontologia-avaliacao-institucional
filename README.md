@@ -17,10 +17,10 @@ A ontologia foi modelada em OWL (Web Ontology Language) com apoio da ferramenta 
 - `ontologia-avaliacao.owl`: arquivo principal da ontologia no formato OWL.
 - `README.md`: este documento.
 
-## 🌐 todos.png Acesso direto à imagem
+## 🌐 Acesso direto à imagem
 
 Para melhor visualização da estrutura ontológica, acesse a imagem completa aqui:  
-👉 [Ver diagrama da ontologia] todos.png
+👉 [Ver estrutura ontologica] 
 
 ## 📚 Referência sugerida
 
