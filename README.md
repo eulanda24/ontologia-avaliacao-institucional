@@ -21,10 +21,10 @@ A ontologia foi modelada em OWL (Web Ontology Language) com apoio da ferramenta 
 ## 🌐 Acesso direto à imagem
 
 Para melhor visualização da estrutura ontológica, acesse a imagem completa aqui:  
-👉 [Ver diagrama da ontologia](https://raw.githubusercontent.com/SEU_USUARIO/ontologia-avaliacao-institucional/main/fluxograma_ontologia.png)
+👉 [Ver diagrama da ontologia](https://raw.githubusercontent.com/eulandaniel/ontologia-avaliacao-institucional/main/fluxograma_ontologia.png)
 
 ## 📚 Referência sugerida
 
 Caso utilize ou cite esta ontologia em trabalhos futuros, sugerimos a seguinte referência (adaptar conforme publicação):
 
-> Daniel, E., & [Seu Nome]. (2025). Ontologia para Análise Qualitativa Automatizada em Avaliações de Cursos de Ensino Superior. *Artigo submetido*.
+> Daniel, E.M. P,.(2025). Ontologia para Análise Qualitativa Automatizada em Avaliações de Cursos de Ensino Superior. *Artigo submetido*.
