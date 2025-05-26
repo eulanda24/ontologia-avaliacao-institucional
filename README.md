@@ -20,7 +20,7 @@ A ontologia foi modelada em OWL (Web Ontology Language) com apoio da ferramenta 
 ## 🌐 Acesso direto à imagem
 
 Para melhor visualização da estrutura ontológica, acesse a imagem completa aqui:  
-👉 [Ver estrutura ontologica] 
+👉 [Ver estrutura ontologica] https://github.com/eulanda24/ontologia-avaliacao-institucional/blob/main/ontologia_avaliacao.png?raw=true
 
 ## 📚 Referência sugerida
 
